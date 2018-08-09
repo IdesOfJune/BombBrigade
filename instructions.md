@@ -28,9 +28,11 @@ If a bomb does not explode, the game simply proceeds to the next player’s turn
 
 If the bomb detonates, it deals damage to the shield piece it is next to when it explodes. This will reduce a shield’s overall health. Each shield can withstand three bomb explosions, and their healthiness is represented by their color. When a shield is completely destroyed, it will start flashing all its lights in all colors in a haphazard manner. When this happens, this shield should be removed from the center piece and no longer be part of the game. 
 
-If a bomb detonates in an area where there is no shield, the light indicator will turn white and the center bomb piece will start flashing red and orange. Any surviving shields will start flashing red and orange as well. When this occurs, the player who detonated the bomb **is eliminated from the game**. The game continues only one player is left alive; that player is the victor! 
+If a bomb detonates in an area where there is no shield, the light indicator will turn white and the center bomb piece will start flashing red and orange. Any surviving shields will start flashing red and orange as well. When this occurs, the player who detonated the bomb **is eliminated from the game**. 
 
-In any case when a bomb detonates, simply double-click to to reset the bomb back its default speed to proceed to the next player’s turn. This will also reset the detonation chance back to normal. 
+To reset the bomb, simply double-click the bomb piece. It will reset to its default speed to proceed to the next player’s turn. This will also reset the detonation chance back to normal. 
+
+The game continues only one player is left alive; that player is the victor! 
 
 In the scenario where multiple players are left and no shield pieces remain, the game enters a **sudden death mode** where players must continue taking turns sparking the bomb until only the sole survivor remains. 
 
